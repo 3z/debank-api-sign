@@ -1,4 +1,4 @@
-# debank-api-sign
+# Debank Api Signature
 
 Reverse-engineered request signing for the [DeBank](https://debank.com) API.
 
